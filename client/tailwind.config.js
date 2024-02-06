@@ -12,6 +12,13 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        "spotimates-blue": "#6C66B8",
+        "spotimates-purple": "#8740A6",
+      },
+      fontFamily: {
+        sans: ["var(--font-poppins)"],
+      },
     },
   },
   plugins: [],
