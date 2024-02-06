@@ -34,7 +34,7 @@ export default function Custom() {
         </div>
 
         {/* Login with spotify button */}
-        <a href="" className="mx-20">
+        <a href="/api/auth/signin/spotify" className="mx-20">
           <div className="bg-spotimates-purple text-lg rounded-full px-7 py-2 hover:bg-purple-600 hover:cursor-pointer">
             Login with Spotify
           </div>
